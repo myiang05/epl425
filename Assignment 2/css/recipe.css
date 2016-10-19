@@ -1,0 +1,42 @@
+h1{
+  color : #A4A400;
+  background-color : #F0F0F0;
+  text-align : center;
+  text-decoration: underline;
+  font-family: "Lucida Sans Unicode";
+  font-size: 22pt;
+  font-weight: bold;
+}
+
+h2{
+  color : #A4A400;
+  background-color : #F0F0F0;
+  text-decoration: underline;
+  font-family: "Lucida Sans Unicode";
+  font-size: 18pt;
+  font-weight: normal;
+}
+
+#comments{
+  background-color : #FFFFA8;
+  margin-left:50px;
+}
+
+#text{
+  font-size: 11pt;
+  font-family: "Georgia";
+}
+
+a{
+  text-decoration: underline;
+  color : #A4A400;
+}
+
+#del{
+  text-decoration: line-through;
+  display: inline;
+}
+
+abbr{
+  text-decoration: underline;
+}

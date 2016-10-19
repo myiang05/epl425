@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  color:Orange;
+  background-color: red;
+}
+h2{
+  text-align: center;
+}
+a{
+  color:red;
+  background-color:orange;
+}
+div{
+  margin-left: 70px;
+  background-color: white;
+  padding:10pt;
+}
